@@ -87,6 +87,3 @@ personalcolor_model/
     - Determines whether the color is clear or dull.
     - Calculates an overall color type based on average hue, lightness, saturation, and clarity.
 4. **Result Display**: The results are shown on the `result.html` page, including the hair, skin, and eye types, and the overall personal color type.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
